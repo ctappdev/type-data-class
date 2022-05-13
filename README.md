@@ -1,12 +1,13 @@
-**Introduction to the Python dataclass
+**Introduction to the Python dataclass**
 Python introduced the dataclass in version 3.7 (PEP 557). The dataclass allows you to define classes with less code and more functionality out of the box.
 
-The following defines a regular Person class with two instance attributes name and age:
+**The following defines a regular Person class with two instance attributes name and age:**
 
 class Person:
     def __init__(self, name, age):
         self.name = name
         self.age = age
+        
 Code language: Python (python)
 This Person class has the __init__ method that initializes the name and age attributes.
 

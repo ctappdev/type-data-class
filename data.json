@@ -1,0 +1,12 @@
+[
+  {
+    "animal_breed": "Dog",
+    "animal_description": "Furry, Four Legs",
+    "average_size": 310
+  },
+   {
+    "animal_breed": "Cat",
+    "animal_description": "Furry, Four Legs, Sneaky",
+    "average_size": 30
+  }
+]
